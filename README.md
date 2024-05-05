@@ -4,4 +4,5 @@ Crypto Arbitrage Monitor allows you to find opportunities between crypto exchang
 In public files you can see a version of a crypto arbitrage monitor using websocket to recive fast data.
 
 
-[Crypto Arbitrage Monitorblack.pdf](https://github.com/NotDev1/Crypto-Arbitrage-Monitor/files/15212977/Crypto.Arbitrage.Monitorblack.pdf)
+
+![Crypto Arbitrage Monitorblack-1](https://github.com/NotDev1/Crypto-Arbitrage-Monitor/assets/163204762/73868452-d5ea-4c38-87ae-742905045957)
