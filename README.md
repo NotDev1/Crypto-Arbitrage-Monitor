@@ -11,7 +11,7 @@ In public files you can find a version of a crypto arbitrage monitor using webso
 
 # Exchange informations provided by their API
 
-| Exchange  | ASK / BID | Withdraw / Deposit | Fee | Volume24h | Chart | Orderbook |
+| Exchange  | Ask/Bid | Withdraw/Deposit | Fee | Volume24h | Chart | Orderbook |
 |-----------|-----------|--------------------|-----|-----------|-------|-----------|
 | Ascendex  | ✔️        | ✔️                 | ✔️  | ✔️        | ✔️    | ✔️        |
 | Azbit     | ✔️        | ❌                 | ✔️  | ✔️        | ✔️    | ✔️        |
