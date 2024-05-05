@@ -5,7 +5,8 @@ In public files you can find a version of a crypto arbitrage monitor using webso
 
 
 
-![Crypto Arbitrage Monitorblack-1](https://github.com/NotDev1/Crypto-Arbitrage-Monitor/assets/163204762/73868452-d5ea-4c38-87ae-742905045957)
+![Crypto-Arbitrage-Monitorblack-1](https://github.com/NotDev1/Crypto-Arbitrage-Monitor/assets/163204762/986afbb4-d8f3-4530-ae30-d932c09bd054)
+
 
 
 # Exchange informations provided by their API
