@@ -8,6 +8,8 @@ In public files you can see a version of a crypto arbitrage monitor using websoc
 ![Crypto Arbitrage Monitorblack-1](https://github.com/NotDev1/Crypto-Arbitrage-Monitor/assets/163204762/73868452-d5ea-4c38-87ae-742905045957)
 
 
+# Exchange informations provided by their API
+
 | Exchange  | ASK / BID | Withdraw / Deposit | Fee | Volume24h | Chart | Orderbook |
 |-----------|-----------|--------------------|-----|-----------|-------|-----------|
 | Ascendex  | ✔️        | ✔️                 | ✔️  | ✔️        | ✔️    | ✔️        |
