@@ -1,0 +1,64 @@
+body {
+  font-size: 12px;
+  font-family: 'YourFirstFont', 'YourSecondFont', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0;
+  padding: 0;
+}
+
+#exchanges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin: 0;
+  padding: 0;
+}
+
+#exchanges div {
+  display: flex;
+  align-items: center;
+  margin-right: 5px;
+  margin-bottom: 0px;
+}
+
+#exchanges label {
+  margin-left: 1px;
+  font-weight: bold;
+}
+
+#exchanges img {
+  margin-top: 0px;
+}
+
+#frequency,
+button {
+  font-size: 10px; 
+  font-family: 'YourFirstFont', 'YourSecondFont', sans-serif;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 1px;
+}
+
+table {
+  padding: 1px;
+  max-width: 100%;
+  width: 100%;
+  margin-top: 0px;
+  border-collapse: collapse; 
+}
+
+td {
+  line-height: 1px;
+}
+
+@media only screen and (min-width: 600px) {
+  #exchanges div {
+    margin-right: 20px;
+  }
+}
